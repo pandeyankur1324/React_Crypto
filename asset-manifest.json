@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/pandeyankur1324/React_Crypto.git/static/js/main.c0510360.js",
-    "static/media/btc.png": "/pandeyankur1324/React_Crypto.git/static/media/btc.04101b0b163c035fa57e.png",
-    "index.html": "/pandeyankur1324/React_Crypto.git/index.html",
-    "main.c0510360.js.map": "/pandeyankur1324/React_Crypto.git/static/js/main.c0510360.js.map"
+    "main.js": "/React_Crypto/static/js/main.7bae8619.js",
+    "static/media/btc.png": "/React_Crypto/static/media/btc.04101b0b163c035fa57e.png",
+    "index.html": "/React_Crypto/index.html",
+    "main.7bae8619.js.map": "/React_Crypto/static/js/main.7bae8619.js.map"
   },
   "entrypoints": [
-    "static/js/main.c0510360.js"
+    "static/js/main.7bae8619.js"
   ]
 }
