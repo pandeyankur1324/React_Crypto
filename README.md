@@ -13,7 +13,7 @@ This is a React app that fetches data from the CoinGecko API to display the curr
 
 ## Demo
 
-[Live Demo](https://your-live-demo-url.com)
+[Live Demo](https://pandeyankur1324.github.io/React_Crypto)
 
 ## Installation
 
